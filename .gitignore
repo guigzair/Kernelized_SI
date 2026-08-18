@@ -1,0 +1,6 @@
+*.npy
+*.png
+*.jpg
+*.gif
+
+data/*
